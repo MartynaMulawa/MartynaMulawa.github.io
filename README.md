@@ -1,4 +1,6 @@
 # MartynaMulawa.github.io
+remote_theme: pages-themes/merlot@v0.2.0
+
 Hej!
 Jestem Martyna i jestem studentką 1. roku informatyki na AGH. 
 
